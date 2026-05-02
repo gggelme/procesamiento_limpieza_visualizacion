@@ -1,0 +1,61 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales
+venv/
+.env/
+.venv/
+
+# Archivos de configuración de entorno
+.env
+*.env
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Archivos de datos (ajustar según necesites)
+*.csv
+*.xlsx
+*.json
+*.parquet
+
+# Imágenes generadas
+*.png
+*.jpg
+*.jpeg
+
+# Logs
+*.log
+
+# Archivos temporales
+*.tmp
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Archivos de compilación
+build/
+dist/
+*.egg-info/
+
+# SQLite
+*.db
+
+# Matplotlib
+*.svg
+
+# Pytest / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+
+# Otros
+*.bak
